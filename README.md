@@ -1,1 +1,1 @@
-Terminal Chatbot with Conversation Memory maintains full conversation​ ​history, shows token count used in each response, has a system prompt that gives the bot a​ ​clear persona, handles rate limi…
+Terminal Chatbot with Conversation Memory maintains full conversation​ ​history, shows token count used in each response, has a system prompt that gives the bot a​ ​clear persona, handles rate limit errors gracefully with retry logic, handles network errors, allows user to type quit to exit, shows a loading indicator while waiting for​ ​response.
