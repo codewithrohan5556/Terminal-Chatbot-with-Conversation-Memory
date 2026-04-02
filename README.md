@@ -1,0 +1,1 @@
+Terminal Chatbot with Conversation Memory maintains full conversation​ ​history, shows token count used in each response, has a system prompt that gives the bot a​ ​clear persona, handles rate limi…
